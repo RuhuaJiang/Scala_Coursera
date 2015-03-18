@@ -1,2 +1,2 @@
 # Scala-Excercise
-Assignment 1 of Functional Programming Principles in Scala on Coursera 
+Assignments solutions of Functional Programming Principles in Scala on Coursera written by me.  
